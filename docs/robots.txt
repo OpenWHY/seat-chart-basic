@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/seat-chart-basic/sitemap.xml
+Sitemap: https://openwhy.github.io/seat-chart-basic/seat-chart-basic/sitemap.xml
