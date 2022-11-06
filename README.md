@@ -4,7 +4,7 @@
 
 百行代码构建一套选座系统雏形。
 
-文档：[https://openwhy.github.io/seat-chart-basic/](https://openwhy.github.io/seat-chart-basic/)
+文档：[https://OpenWHY.github.io/seat-chart-basic/](https://OpenWHY.github.io/seat-chart-basic/)
 
 #### 应用架构
 
