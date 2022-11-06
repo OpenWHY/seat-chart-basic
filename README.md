@@ -1,8 +1,8 @@
-# 选座系统基础版
+# 座次系统基础版
 
 #### 介绍
 
-百行代码构建一套选座系统雏形。
+百行代码构建一套座次系统雏形。
 
 文档：[https://OpenWHY.github.io/seat-chart-basic/](https://OpenWHY.github.io/seat-chart-basic/)
 
