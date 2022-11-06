@@ -4,6 +4,8 @@
 
 百行代码构建一套选座系统雏形。
 
+文档：[https://openwhy.github.io/seat-chart-basic/](https://openwhy.github.io/seat-chart-basic/)
+
 #### 应用架构
 
 传统 B/S 架构，使用 PHP 进行数据处理。
