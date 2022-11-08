@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c,d as n,r}from"./app.790f2d7d.js";const i={};function s(l,_){const e=r("BiliBili");return t(),c("div",null,[n(e,{bvid:"BV1kt411o7C3"})])}const d=o(i,[["render",s],["__file","study.html.vue"]]);export{d as default};
