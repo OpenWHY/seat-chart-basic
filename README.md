@@ -4,7 +4,7 @@
 
 百行代码构建一套座次系统雏形。
 
-文档：[https://OpenWHY.github.io/seat-chart-basic/](https://OpenWHY.github.io/seat-chart-basic/)
+文档：[https://oneto.x-lib.metahook.cc/seat-chart-basic/](https://oneto.x-lib.metahook.cc/seat-chart-basic/)
 
 #### 应用架构
 
@@ -21,6 +21,9 @@
 
 ![定制美化](demo2.jpg)
 
+![定制美化](demo3.jpg)
+
+![定制美化](demo4.jpg)
 
 #### 使用教程
 
