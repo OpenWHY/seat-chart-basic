@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://openwhy.github.io/seat-chart-basic/seat-chart-basic/sitemap.xml
